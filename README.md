@@ -78,4 +78,12 @@ Strong Password:
 Password: My$ecureP@ss123
 Strength: Strong 
 Feedback:
- Great! Your password looks secure.
+Great! Your password looks secure.
+
+
+------
+
+👩‍💻 Author
+Pallabi Poria
+MCA Student | Cybersecurity Enthusiast
+Task completed under Prodigy InfoTech Internship
